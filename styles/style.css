@@ -29,7 +29,7 @@ body {
   gap: 80px;
 }
 
-.cabeçalho__menu__links {
+.cabecalho__menu__links {
   font-family: var(--fonte-secundaria);
   font-size: 1.5rem;
   font-weight: 600;
